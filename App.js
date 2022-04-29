@@ -3,7 +3,6 @@ import React from 'react';
 import { StyleSheet, SafeAreaView, Text } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 
-import Auth from './screens/auth'
 import MyStack from './views/MyStack'
 
 export default function App() {
